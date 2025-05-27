@@ -1,7 +1,6 @@
-import React from 'react'
-import Profile from '../Component/Profile'
+import Profile from '../Components/Profile.jsx'
 
-function Profilepage() {
+function ProfilePage() {
   return (
     <>
     <Profile/>
@@ -9,4 +8,4 @@ function Profilepage() {
   )
 }
 
-export default Profilepage
+export default ProfilePage

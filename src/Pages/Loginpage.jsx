@@ -1,6 +1,5 @@
-import React from 'react'
-import LoginForm from '../Component/Loginform'
-const Loginpage = () => {
+import LoginForm from '../Components/LoginForm.jsx'
+const LoginPage = () => {
   return (
     <>
     <LoginForm/>
@@ -8,4 +7,4 @@ const Loginpage = () => {
   )
 }
 
-export default Loginpage
+export default LoginPage

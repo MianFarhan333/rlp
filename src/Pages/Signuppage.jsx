@@ -1,11 +1,11 @@
-import Signupform from '../Component/signupform'
+import SignupForm from '../Components/SignupForm.jsx';
 
-function Signuppage() {
+function SignupPage() {
   return (
     <>
-    <Signupform/>
+      <SignupForm />
     </>
-  )
+  );
 }
 
-export default Signuppage
+export default SignupPage;
