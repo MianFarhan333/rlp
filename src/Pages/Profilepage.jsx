@@ -1,4 +1,4 @@
-import Profile from '../Components/Profile.jsx'
+import Profile from '../Components/Profile'
 
 function ProfilePage() {
   return (
