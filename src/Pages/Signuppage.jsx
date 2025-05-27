@@ -2,9 +2,7 @@ import SignupForm from '../Components/signupForm';
 
 function SignupPage() {
   return (
-    <>
       <SignupForm />
-    </>
   );
 }
 

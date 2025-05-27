@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Loginpage from './Pages/Loginpage'
-import Signuppage from './Pages/Signuppage'
-import Profilepage from './Pages/Profilepage'
+import Signuppage from './Pages/SignupPage'
+import Profilepage from './Pages/ProfilePage'
 // import {Store} from './redux/Store'
 
 // const store = Store();
